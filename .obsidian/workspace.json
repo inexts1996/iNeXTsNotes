@@ -11,10 +11,12 @@
             "id": "745972161aa8baf7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Unity/Mesh.md",
-                "staged": true
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unity/Mesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unity/Mesh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unity/Mesh.md"
+              }
             }
           },
           {
@@ -168,8 +174,8 @@
   },
   "active": "745972161aa8baf7",
   "lastOpenFiles": [
-    "Unity/Mesh.md",
     "Unity/UI/Unity 坐标系转换.md",
+    "Unity/Mesh.md",
     "Unity/DOTS/DOTS原理.md",
     "Unity/UI",
     "Unity/DOTS",
