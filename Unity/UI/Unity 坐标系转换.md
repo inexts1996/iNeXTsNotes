@@ -2,4 +2,4 @@
 ## 同一个相机下
 1. World Space到Screen Space的转换方式是：Camera.WorldToScreenPoint
 2. Screen Space到World Space的转换方式是：Camera.ScreenToWorldPoint
-
+每个物体都有父节点，最顶层的物体的父节点是整个世界空间
