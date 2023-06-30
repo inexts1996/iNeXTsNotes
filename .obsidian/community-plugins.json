@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-outliner",
-  "calendar"
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]
