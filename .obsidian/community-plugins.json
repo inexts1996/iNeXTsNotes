@@ -6,5 +6,6 @@
   "calendar",
   "obsidian-kanban",
   "obsidian-tasks-plugin",
-  "quickadd"
+  "quickadd",
+  "obsidian-to-anki-plugin"
 ]
